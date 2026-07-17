@@ -1,0 +1,2 @@
+# Created by GitHub Actions / local builds. Do not commit secrets here.
+# sdk.dir is not needed on CI (ANDROID_HOME is set by the runner).
